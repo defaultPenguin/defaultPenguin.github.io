@@ -1,2 +1,2 @@
 # defaultPenguin.github.io
-Blag
+This is the repository for my future blog about projects and schtuff.
